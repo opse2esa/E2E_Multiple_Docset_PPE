@@ -16,7 +16,7 @@
     },
     {
       "docset_name": "e2eppe-docset-b",
-      "build_source_folder": "articles-b",
+      "build_source_folder": "docset-b",
       "build_output_subfolder": "e2eppe-docset-b",
       "locale": "en-us",
       "monikers": [],
