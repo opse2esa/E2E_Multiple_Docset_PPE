@@ -1,2 +1,2 @@
-# Token reference and topic reference
+# Token reference
 [!INCLUDE[ATA](../docset-b/articles/token-b.md)] 
