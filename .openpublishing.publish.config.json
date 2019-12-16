@@ -2,7 +2,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "e2eppe-docset-b",
-      "build_source_folder": "docset-b",
+      "build_source_folder": "docset-b/articles",
       "build_output_subfolder": "e2eppe-docset-b",
       "locale": "en-us",
       "monikers": [],
